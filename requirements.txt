@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+inline
+seaborn
+tabulate
+random
+tensorflow
+scikit-learn
